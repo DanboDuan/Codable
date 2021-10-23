@@ -1,9 +1,8 @@
 # Codable
 
 [![Swift Package Manager](https://img.shields.io/badge/swift%20package%20manager-compatible-brightgreen.svg)](https://swift.org/package-manager/)
-[![Release](https://img.shields.io/github/v/release/DanboDuan/Codable.svg)](https://github.com/DanboDuan/Codable/releases)
-[![License](https://img.shields.io/badge/License-Apache-yellow.svg)](https://github.com/DanboDuan/Codable/blob/main/LICENSE)
-
+[![Release](https://img.shields.io/github/v/release/DanboDuan/Codable)](https://github.com/DanboDuan/Codable/releases)
+[![License](https://img.shields.io/github/license/DanboDuan/Codable)](https://github.com/DanboDuan/Codable/blob/main/LICENSE)
 
 Default Value propertyWrapper for Codable Value
 
